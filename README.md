@@ -37,6 +37,11 @@ I'm a professional Solidity developer specializing in writing secure and efficie
 
 ### 📊 GitHub Stats:
 
+![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awaiseraz&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awaiseraz&layout=compact&theme=dark)
+
+
 
 
 
