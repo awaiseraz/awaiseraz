@@ -50,9 +50,9 @@ I'm a professional Solidity developer specializing in writing secure and efficie
 
 ### 🌍 Let's Connect:
 
-- **Fiverr:** [Your Fiverr Profile](#)
+- **Fiverr:** [Muhammad Awais Raza](https://www.fiverr.com/m_awaisraza)
 - **Twitter/X:** [@YourHandle](#)
-- **LinkedIn:** [Your Profile](#)
+- **LinkedIn:** [Muhammad Awais Raza](https://www.linkedin.com/in/muhammad-awais-raza-221812268/)
 - **Email:** [m.awaisraz786@gmail.com](mailto\:your.email@example.com)
 
 Looking for a Solidity developer? Let's build something amazing together! 🚀
