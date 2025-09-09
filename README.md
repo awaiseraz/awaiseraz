@@ -70,6 +70,6 @@ My goal is to strengthen my expertise in **DeFi protocols** and contribute to in
 ### 🌍 Let's Connect:
 
 - **Twitter/X:** [AwaisRaz18](https://x.com/AwaisRaz18)
-- **LinkedIn:** [Awais Raza](https://www.linkedin.com/in/muhammad-awais-raza-221812268/)
+- **LinkedIn:** [Awais Raza](https://www.linkedin.com/in/awais-raza-221812268)
 - **Email:** [m.awaisraz786@gmail.com](mailto\:your.email@example.com)
 
